@@ -1,0 +1,5 @@
+["HS 1988/1992 or H0"]
+H0_to_SITC4 = "https://wits.worldbank.org/data/public/concordance/Concordance_H0_to_S4.zip"
+
+["HS 2012 or H4"]
+H4_to_SITC4 = "https://wits.worldbank.org/data/public/concordance/Concordance_H4_to_S4.zip" 
